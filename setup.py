@@ -10,7 +10,7 @@ classifiers = [
  
 setup(
   name='changer',
-  version='2.0',
+  version='3.0',
   description='Changer is - Arabic English Persian Hindi Chinese Malayalam Thai Bengali - Python library to convert numbers from-to.',
   long_description=open('README.md').read(),
   long_description_content_type="text/markdown",
