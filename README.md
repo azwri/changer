@@ -1,5 +1,5 @@
 # convert_numbers
-![Twitter Follow](https://img.shields.io/twitter/follow/Al_Azwari?label=Follow&style=social) [![Downloads](https://pepy.tech/badge/convert-numbers)](https://pepy.tech/project/convert-numbers) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=plastic) [![PyPI version](https://badge.fury.io/py/convert-numbers.svg)](https://badge.fury.io/py/convert-numbers) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/azwri/convert_numbers)
+![Twitter Follow](https://img.shields.io/twitter/follow/Al_Azwari?label=Follow&style=social) [![Downloads](https://pepy.tech/badge/changer)](https://pepy.tech/project/convert-numbers) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=plastic) [![PyPI version](https://badge.fury.io/py/convert-numbers.svg)](https://badge.fury.io/py/convert-numbers) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/azwri/convert_numbers)
 ##### Arabic Persian English Hindi Numbers Conversion
 
 
