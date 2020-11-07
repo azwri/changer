@@ -1,6 +1,6 @@
 # convert_numbers
 ![Twitter Follow](https://img.shields.io/twitter/follow/Al_Azwari?label=Follow&style=social) [![Downloads](https://pepy.tech/badge/changer)](https://pepy.tech/project/changer) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django?style=plastic) [![PyPI version](https://badge.fury.io/py/changer.svg)](https://badge.fury.io/py/changer) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/azwri/changer)
-##### Arabic Persian English Hindi Numbers Conversion
+##### Changer is - Arabic English Persian Hindi Chinese Malayalam Thai Bengali - Python library to convert numbers from to.
 
 
 ##### Installation
@@ -57,7 +57,7 @@ print(changer.persian_to_malayalam('۱۲۳۴۵۶۷۸۹۰'))  # ൨൧൩൪൫�
 print(changer.persian_to_thai('۱۲۳۴۵۶۷۸۹۰'))  # ๒๑๓๔๕๖๗๘๙๐
 print(changer.persian_to_urdu('۱۲۳۴۵۶۷۸۹۰'))  # ۱۲۳۴۵۶۷۸۹۰
 
-# From Persian
+# From Bengali
 print(changer.bengali_to_english('১২৩৪৫৬৭৮৯০'))  # 1234567890
 print(changer.bengali_to_arabic('১২৩৪৫৬৭৮৯০'))  # 1234567890
 print(changer.bengali_to_hindi('১২৩৪৫৬৭৮৯০'))  # ١٢٣٤٥٦٧٨٩٠
